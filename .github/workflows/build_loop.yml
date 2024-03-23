@@ -42,6 +42,7 @@ jobs:
           dexcom_sage \
           dexcom_upload_readings \
           customtypeone_looppatches \
+          2002 \
           testflight_expiration_warning
 
           # the final customization listed above CANNOT have a continuation character "\"
